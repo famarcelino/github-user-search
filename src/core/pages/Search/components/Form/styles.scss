@@ -1,0 +1,31 @@
+.form-container {
+    left         : 0px;
+    top          : 0px;
+    background   : #E6F7FF;
+    border-radius: 20px;
+    padding-top  : 60px;
+    padding-left : 90px;
+}
+
+.form-title {
+    font-weight  : 500;
+    font-size    : 38px;
+    line-height  : 46px;
+    color        : #262626;
+    margin-bottom: 15px;
+}
+
+.form-input {
+    background   : #FFFFFF;
+    border       : 1px solid #D9D9D9;
+    box-sizing   : border-box;
+    border-radius: 4px;
+    font-size    : 16px;
+    line-height  : 24px;
+    display    : flex;
+    align-items: center;
+    color: #BFBFBF;
+    padding: 8px 15px;
+    margin-bottom: 20px;
+    width: 680px;
+}

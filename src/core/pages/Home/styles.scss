@@ -1,0 +1,30 @@
+.home-container {
+    margin-top  : 120px;
+    padding-left: 120px;
+}
+
+.home-title {
+    @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;700&display=swap');
+    font-family: 'Red Hat', sans-serif;
+    font-size     : 48px;
+    width: 580px;
+    line-height   : 64px;
+    display       : flex;
+    align-items   : center;
+    letter-spacing: 0.02em;
+    color         : #062847;
+    margin-bottom: 25px;
+}
+
+.home-text {
+    @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;700&display=swap');
+    font-family: 'Red Hat', sans-serif;
+    margin-bottom: 50px;
+    font-size  : 20px;
+    line-height: 36px;
+    color      : #5A6774;
+}
+
+.email {
+    color: #1890FF;
+}
